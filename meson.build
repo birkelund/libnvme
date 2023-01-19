@@ -7,7 +7,7 @@
 #
 project(
     'libnvme', ['c'],
-    meson_version: '>= 0.50.0',
+    meson_version: '>=0.56',
     version: '1.2',
     license: 'LGPL-2.1-or-later',
     default_options: [
